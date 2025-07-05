@@ -1,0 +1,6 @@
+title: BlogKu
+description: Blog modern dengan Jekyll dan GitHub Pages
+baseurl: ""
+url: "https://username.github.io"
+theme: minima
+markdown: kramdown
